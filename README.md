@@ -3,4 +3,4 @@ I've excluded my config folder, which contains my firebase setup, so don't
 forget to set up firebase. 
 
 
-https://www.instagram.com/officialjerrynoel/
+https://www.instagram.com/officialjerrynoel
